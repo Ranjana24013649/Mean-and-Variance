@@ -66,7 +66,7 @@ for i in range (M+1):
     c = 0
     
     for j in range(N):
-    
+        
         if L[j]==i:
         
             c=c+1
